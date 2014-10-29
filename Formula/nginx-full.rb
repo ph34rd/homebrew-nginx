@@ -89,6 +89,7 @@ class NginxFull < Formula
       "rtmp" => "Compile with support for RTMP Module",
       "dosdetector" => "Compile with support for detecting DoS attacks",
       "push-stream" => "Compile with support for http push stream module",
+      "arutrtmp" => "Compile with support for nginx rtmp module"
     }
   end
 
